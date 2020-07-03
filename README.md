@@ -1,2 +1,1 @@
-# clock.github.io
 # clock
